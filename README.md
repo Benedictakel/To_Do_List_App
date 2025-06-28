@@ -147,8 +147,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 📬 Contact
 
-**Your Name**
-[Your LinkedIn](#) | [Your Email](mailto:yourname@example.com) | [Your Portfolio](#)
+**Ugama Benedicta Kelechi**
+[LinkedIn](www.linkedin.com/in/ugama-benedicta-kelechi-codergirl-103041300) | [Email](mailto:ugamakelechi501@gmail.com) | [Portfolio Website](#)
 
 
 
